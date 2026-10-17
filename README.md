@@ -6,7 +6,7 @@
 - **Модуль:** `DiscountModule`
 - **User Story:** «Как студент-льготник, я хочу подтвердить студбилет для получения скидки 15%.»
 - **Интерфейс:** `apply_student_discount(card_id)`
-- **Автор:** _ФИО, группа_
+- **Автор:** Самигуллин Тиханушкин Жуков
 
 ## Модульная архитектура (клиент-сервер)
 
@@ -26,9 +26,9 @@ flowchart TD
     style D fill:#FAECE7,stroke:#993C1D
 ```
 
-Картинка: [docs/architecture.png](docs/architecture.png)
 
-![Архитектура](docs/architecture.png)
+
+
 
 `DiscountModule` не зависит от других модулей, поэтому заглушка (Stub) не требуется.
 Наоборот, `CartModule` обращается к `DiscountModule`.
