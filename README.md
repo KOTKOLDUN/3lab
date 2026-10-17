@@ -91,9 +91,9 @@ python demo_bugs/bug_probe.py
 
 ## Канбан-доска
 
-![Канбан](docs/kanban.png)
 
-> Замените на скриншот своей доски (GitHub Projects) или добавьте ссылку: _ссылка_
+](https://github.com/users/KOTKOLDUN/projects/2/views/1)
+
 
 ## Чек-лист сдачи
 
@@ -101,4 +101,4 @@ python demo_bugs/bug_probe.py
 - [x] Тесты — `test_runner.py`
 - [x] Bug Report (5 записей)
 - [x] Схема архитектуры
-- [ ] Скриншот или ссылка на Канбан с задачей в «Done»
+- [x] Скриншот или ссылка на Канбан с задачей в «Done»
