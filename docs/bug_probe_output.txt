@@ -1,0 +1,11 @@
+ok 15.0
+text EXC ValueError invalid literal for int() with base 10: 'ABC-123'
+None EXC TypeError int() argument must be a string, a bytes-like obje
+empty EXC ValueError invalid literal for int() with base 10: ''
+spaces 0.0
+long EXC ValueError Exceeds the limit (4300 digits) for integer string
+neg 0.0
+float 0.0
+zeros 0.0
+plus 15.0
+unicode 15.0
